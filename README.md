@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Enzo Noda
 
-- 🔭 Hoje estudo/trabalho com front-end
-- 🌱 Estudando Typescript, Python e React-Native
+- 🔭 Hoje estudo/trabalho com front-end (React JS, React Native, Typescript, CSS, SASS, HTML, Javascript)
+- 🌱 Estudando Python e NodeJS para back-end
 - 👯 Contate-me no email: enzo.noda@gmail.com
 
 <div align="center">
