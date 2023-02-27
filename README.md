@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Enzo Noda
 
-- 🔭 Trabalho com front-end e mobile (ReactJS, React Native, Typescript, Javascript, CSS, SASS, HTML)
-- 🌱 Estudando NodeJS para back-end
+- 🔭 Trabalho com fullstack e mobile (ReactJS, React Native, Typescript, Javascript, C#, ASP .NET)
+- 🌱 Estudando .Net para back-end
 - 👯 Contate-me no email: enzo.noda@gmail.com
 
 <div align="center">
